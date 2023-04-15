@@ -1,4 +1,4 @@
-package davitorino.horaatual;
+package horaatual;
 
 import java.util.Date;
 

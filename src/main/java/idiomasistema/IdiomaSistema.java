@@ -1,5 +1,5 @@
 
-package davitorino.idiomasistema;
+package idiomasistema;
 
 import java.util.Locale;
 

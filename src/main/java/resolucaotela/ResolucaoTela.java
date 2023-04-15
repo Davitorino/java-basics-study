@@ -1,4 +1,4 @@
-package davitorino.resolucaotela;
+package resolucaotela;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;

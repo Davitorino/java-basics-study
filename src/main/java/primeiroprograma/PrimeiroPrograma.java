@@ -1,4 +1,4 @@
-package davitorino.primeiroprograma;
+package primeiroprograma;
 
 public class PrimeiroPrograma {
 
